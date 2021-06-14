@@ -14,13 +14,13 @@
                     class="d-flex child-flex"
                     cols="4"
                   >
-                    <v-card flat class="d-flex">
+                    <!-- <v-card flat class="d-flex">
                       <v-img
                         :src="`assets/me${n}.jpeg`"
                         aspect-ratio="1.3"
                       >
                       </v-img>
-                    </v-card>
+                    </v-card> -->
                   </v-col>
                 </v-row>
               </v-container>

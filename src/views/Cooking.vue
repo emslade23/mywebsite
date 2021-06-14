@@ -6,7 +6,7 @@
     <span class="md-body-1">some cooking lessons and experiences I've had during quarantine!</span>
     <br><br>
     
-    <span class="md-headline">More indepth recipes coming soon.</span>
+    <span class="md-body-1">More indepth recipes coming soon.</span>
     <br>
     <v-row justify="center">
       <v-expansion-panels popout>

@@ -63,23 +63,12 @@
               </v-col>
             </v-row>
  </v-card>
- <Timeline></Timeline>
 
 
 
 
   </div>
 </template>
-
-<script>
-import Timeline from '@/components/Timeline.vue'
-export default {
-  name: 'HelloWorld',
-  components: {
-    Timeline
-  }
-}
-</script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
